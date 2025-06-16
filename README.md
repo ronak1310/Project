@@ -2,4 +2,4 @@
 <Br>
 Contain projects using HTML,CSS,JS
 <br>
-Author=Ronak (nanu)Sharma
+Author=Ronak Sharma

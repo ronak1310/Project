@@ -7,4 +7,3 @@ Author=Ronak Sharma
 1.COUNTDOWN TIMER:-
 -https://www.uidesigndaily.com/posts/sketch-countdown-timer-day-876
 -FUTURE TIME
-2.Quiz app asking quiz
